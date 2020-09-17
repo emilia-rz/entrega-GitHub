@@ -1,0 +1,49 @@
+{
+	"pDQ2ttwy": {
+		"name": "Ramirez-Maria-Emilia",
+		"src": "C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia",
+		"config": {},
+		"files": {
+			"C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\css\\style.css": {
+				"id": "hPH2Ocxr",
+				"pid": "pDQ2ttwy",
+				"compiler": "cssmin",
+				"name": "style.css",
+				"src": "C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\css\\style.css",
+				"output": "C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\css\\style.min.css",
+				"compile": true,
+				"watch": true,
+				"category": "css",
+				"settings": {
+					"combineImport": true,
+					"appendTimestamp": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "compress"
+				}
+			},
+			"C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\scss\\style.scss": {
+				"id": "cW0mwmpS",
+				"pid": "pDQ2ttwy",
+				"compiler": "sass",
+				"name": "style.scss",
+				"src": "C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\scss\\style.scss",
+				"output": "C:\\Users\\nomeo\\Desktop\\Ramirez-Maria-Emilia\\scss\\style.css",
+				"compile": true,
+				"watch": true,
+				"category": "style",
+				"settings": {
+					"compass": false,
+					"sourceMap": true,
+					"lineComments": true,
+					"debugInfo": false,
+					"unixNewlines": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "compact"
+				}
+			}
+		},
+		"id": "pDQ2ttwy"
+	}
+}

@@ -1,0 +1,348 @@
+{
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-gradients.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\sassy-buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-styles.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\sassy-buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-text.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\sassy-buttons.scss",
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-gradients.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-pseudo-states.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\sassy-buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-shadows.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sassier-buttons\\scss\\_sassy-button-gradients.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_base.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_typography.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_grids.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_forms.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_buttons.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_tables.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_menus.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\bluejay.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_normalize.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_base.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_variables.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_base.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_extras.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\bluejay\\src\\_base.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\absolute.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\after.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\before.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\coords.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\relative.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\sprite.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl\\text.sass": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\cssowl\\lib\\sass\\cssowl.sass"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\_options.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\_mixins.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\_base.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\_layout.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_shapes.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_border.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_borderless.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_raised.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_3d.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_glow.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_dropdown.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_groups.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_wrapper.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_longshadow.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\types\\_sizes.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\buttons\\scss\\buttons.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\_settings.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_breakpoints.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_reset.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_default.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_background.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_border.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_aligner.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_helpers.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_layout.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_typography.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_badge.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_buttons.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_forms.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_loading-bar.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_loading-spinner.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_notification.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_paginator.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_table.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_tabs.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\components\\_tag.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\grid\\_grid-framework.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\grid\\_grid.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\utils\\_grid.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\sierra-library\\lib\\index.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\_variables.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_contains.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_prefix.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_animation.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_transition.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_transform.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\helpers\\_keyframes.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-up.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-down.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-left.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-right.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-zoom.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_fade-in-zoom-big.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_slide-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_drop-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_rise-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_pop-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_turn-in.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_stretch.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\entrances\\_newspaper.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-down.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-up.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-left.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-right.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-zoom.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_fade-out-zoom-big.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_slide-out.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_explode.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_drop-out.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_rise-out.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_poof.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_turn-out.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\exits\\_compress.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_float.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_shake.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_expand.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_teeter.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_quiver.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_sway.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_spin.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_bounce.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_pulsate.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_colors.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_around-the-world.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_ping.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_square-dance.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_sunrise.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_enlarge.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_contract.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_flip.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\in-place\\_cube-flip.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\Scout-App\\node_modules\\saffron\\saffron\\saffron.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\sass\\_estructura.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\sass\\estilos.scss"
+	],
+	"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\sass\\_colores.scss": [
+		"C:\\Users\\nomeo\\Desktop\\ejemplo sass\\sass\\estilos.scss"
+	]
+}

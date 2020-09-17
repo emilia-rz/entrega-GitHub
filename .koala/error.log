@@ -1,0 +1,13 @@
+---uncaughtException---
+TypeError: value.replace is not a function
+    at tidyAtRule (C:\Program Files\Koala\node_modules\clean-css\lib\optimizer\level-1\tidy-at-rule.js:3:6)
+    at level1Optimize (C:\Program Files\Koala\node_modules\clean-css\lib\optimizer\level-1\optimize.js:636:47)
+    at optimize (C:\Program Files\Koala\node_modules\clean-css\lib\clean.js:128:5)
+    at C:\Program Files\Koala\node_modules\clean-css\lib\clean.js:104:29
+    at C:\Program Files\Koala\node_modules\clean-css\lib\reader\read-sources.js:26:64
+    at loadOriginalSources (C:\Program Files\Koala\node_modules\clean-css\lib\reader\load-original-sources.js:26:5)
+    at C:\Program Files\Koala\node_modules\clean-css\lib\reader\read-sources.js:26:14
+    at applySourceMaps (C:\Program Files\Koala\node_modules\clean-css\lib\reader\apply-source-maps.js:34:5)
+    at Object.callback (C:\Program Files\Koala\node_modules\clean-css\lib\reader\read-sources.js:25:12)
+    at doInlineImports (C:\Program Files\Koala\node_modules\clean-css\lib\reader\read-sources.js:200:25)
+
